@@ -13,5 +13,5 @@ class Test(unittest.TestCase):
         self.assertEqual(fourth_angle(4, 5, 1), 10)
 
 
-qu
+
 
